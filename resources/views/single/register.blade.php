@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Register | RailPicture.id</title>
+    <title>Register | Brawijayaku</title>
     <link rel="stylesheet" href="{{url('assets/css/bootstrap.css')}}">
     <link rel="stylesheet" href="{{url('assets/css/style.css')}}">
     <link rel="stylesheet" type="text/css" href=" {{ url('assets/lib/datepicker/css/datepicker.css') }} ">

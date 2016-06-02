@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Login | RailPicture.com</title>
+    <title>Login | Brawijayaku</title>
     <link rel="stylesheet" href="{{url('assets/css/bootstrap.css')}}">
     <link rel="stylesheet" href="{{url('assets/css/style.css')}}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
